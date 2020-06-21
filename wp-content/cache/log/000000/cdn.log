@@ -1,0 +1,399 @@
+[Thu, 04 Jun 2020 21:32:41 +0000] purge: []
+[Thu, 04 Jun 2020 21:32:41 +0000] purge: [
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-300x75.jpg",
+        "remote_path": "wp-content\/uploads\/2020\/04\/banner-1-300x75.jpg",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-300x75.jpg"
+    }
+]
+[Thu, 04 Jun 2020 21:32:41 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/banner-1-300x75.jpg =. wp-content/uploads/2020/04/banner-1-300x75.jpg] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:32:41 +0000] purge: [
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-300x75.jpg",
+        "remote_path": "wp-content\/uploads\/2020\/04\/banner-1-300x75.jpg",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-300x75.jpg"
+    },
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-1024x256.jpg",
+        "remote_path": "wp-content\/uploads\/2020\/04\/banner-1-1024x256.jpg",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-1024x256.jpg"
+    }
+]
+[Thu, 04 Jun 2020 21:32:41 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/banner-1-300x75.jpg =. wp-content/uploads/2020/04/banner-1-300x75.jpg] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:32:41 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/banner-1-1024x256.jpg =. wp-content/uploads/2020/04/banner-1-1024x256.jpg] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:32:42 +0000] purge: [
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-300x75.jpg",
+        "remote_path": "wp-content\/uploads\/2020\/04\/banner-1-300x75.jpg",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-300x75.jpg"
+    },
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-1024x256.jpg",
+        "remote_path": "wp-content\/uploads\/2020\/04\/banner-1-1024x256.jpg",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-1024x256.jpg"
+    },
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-150x150.jpg",
+        "remote_path": "wp-content\/uploads\/2020\/04\/banner-1-150x150.jpg",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-150x150.jpg"
+    }
+]
+[Thu, 04 Jun 2020 21:32:42 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/banner-1-300x75.jpg =. wp-content/uploads/2020/04/banner-1-300x75.jpg] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:32:42 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/banner-1-1024x256.jpg =. wp-content/uploads/2020/04/banner-1-1024x256.jpg] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:32:42 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/banner-1-150x150.jpg =. wp-content/uploads/2020/04/banner-1-150x150.jpg] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:32:42 +0000] purge: [
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-300x75.jpg",
+        "remote_path": "wp-content\/uploads\/2020\/04\/banner-1-300x75.jpg",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-300x75.jpg"
+    },
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-1024x256.jpg",
+        "remote_path": "wp-content\/uploads\/2020\/04\/banner-1-1024x256.jpg",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-1024x256.jpg"
+    },
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-150x150.jpg",
+        "remote_path": "wp-content\/uploads\/2020\/04\/banner-1-150x150.jpg",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-150x150.jpg"
+    },
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-768x192.jpg",
+        "remote_path": "wp-content\/uploads\/2020\/04\/banner-1-768x192.jpg",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-768x192.jpg"
+    }
+]
+[Thu, 04 Jun 2020 21:32:42 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/banner-1-300x75.jpg =. wp-content/uploads/2020/04/banner-1-300x75.jpg] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:32:42 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/banner-1-1024x256.jpg =. wp-content/uploads/2020/04/banner-1-1024x256.jpg] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:32:42 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/banner-1-150x150.jpg =. wp-content/uploads/2020/04/banner-1-150x150.jpg] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:32:42 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/banner-1-768x192.jpg =. wp-content/uploads/2020/04/banner-1-768x192.jpg] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:32:42 +0000] purge: [
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-300x75.jpg",
+        "remote_path": "wp-content\/uploads\/2020\/04\/banner-1-300x75.jpg",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-300x75.jpg"
+    },
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-1024x256.jpg",
+        "remote_path": "wp-content\/uploads\/2020\/04\/banner-1-1024x256.jpg",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-1024x256.jpg"
+    },
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-150x150.jpg",
+        "remote_path": "wp-content\/uploads\/2020\/04\/banner-1-150x150.jpg",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-150x150.jpg"
+    },
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-768x192.jpg",
+        "remote_path": "wp-content\/uploads\/2020\/04\/banner-1-768x192.jpg",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-768x192.jpg"
+    },
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-1536x384.jpg",
+        "remote_path": "wp-content\/uploads\/2020\/04\/banner-1-1536x384.jpg",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-1536x384.jpg"
+    }
+]
+[Thu, 04 Jun 2020 21:32:42 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/banner-1-300x75.jpg =. wp-content/uploads/2020/04/banner-1-300x75.jpg] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:32:42 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/banner-1-1024x256.jpg =. wp-content/uploads/2020/04/banner-1-1024x256.jpg] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:32:42 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/banner-1-150x150.jpg =. wp-content/uploads/2020/04/banner-1-150x150.jpg] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:32:42 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/banner-1-768x192.jpg =. wp-content/uploads/2020/04/banner-1-768x192.jpg] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:32:42 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/banner-1-1536x384.jpg =. wp-content/uploads/2020/04/banner-1-1536x384.jpg] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:32:42 +0000] purge: [
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-300x75.jpg",
+        "remote_path": "wp-content\/uploads\/2020\/04\/banner-1-300x75.jpg",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-300x75.jpg"
+    },
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-1024x256.jpg",
+        "remote_path": "wp-content\/uploads\/2020\/04\/banner-1-1024x256.jpg",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-1024x256.jpg"
+    },
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-150x150.jpg",
+        "remote_path": "wp-content\/uploads\/2020\/04\/banner-1-150x150.jpg",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-150x150.jpg"
+    },
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-768x192.jpg",
+        "remote_path": "wp-content\/uploads\/2020\/04\/banner-1-768x192.jpg",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-768x192.jpg"
+    },
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-1536x384.jpg",
+        "remote_path": "wp-content\/uploads\/2020\/04\/banner-1-1536x384.jpg",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-1536x384.jpg"
+    },
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-940x198.jpg",
+        "remote_path": "wp-content\/uploads\/2020\/04\/banner-1-940x198.jpg",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-940x198.jpg"
+    }
+]
+[Thu, 04 Jun 2020 21:32:42 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/banner-1-300x75.jpg =. wp-content/uploads/2020/04/banner-1-300x75.jpg] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:32:42 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/banner-1-1024x256.jpg =. wp-content/uploads/2020/04/banner-1-1024x256.jpg] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:32:42 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/banner-1-150x150.jpg =. wp-content/uploads/2020/04/banner-1-150x150.jpg] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:32:42 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/banner-1-768x192.jpg =. wp-content/uploads/2020/04/banner-1-768x192.jpg] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:32:42 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/banner-1-1536x384.jpg =. wp-content/uploads/2020/04/banner-1-1536x384.jpg] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:32:42 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/banner-1-940x198.jpg =. wp-content/uploads/2020/04/banner-1-940x198.jpg] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:32:42 +0000] purge: [
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-300x75.jpg",
+        "remote_path": "wp-content\/uploads\/2020\/04\/banner-1-300x75.jpg",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-300x75.jpg"
+    },
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-1024x256.jpg",
+        "remote_path": "wp-content\/uploads\/2020\/04\/banner-1-1024x256.jpg",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-1024x256.jpg"
+    },
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-150x150.jpg",
+        "remote_path": "wp-content\/uploads\/2020\/04\/banner-1-150x150.jpg",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-150x150.jpg"
+    },
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-768x192.jpg",
+        "remote_path": "wp-content\/uploads\/2020\/04\/banner-1-768x192.jpg",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-768x192.jpg"
+    },
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-1536x384.jpg",
+        "remote_path": "wp-content\/uploads\/2020\/04\/banner-1-1536x384.jpg",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-1536x384.jpg"
+    },
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-940x198.jpg",
+        "remote_path": "wp-content\/uploads\/2020\/04\/banner-1-940x198.jpg",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1-940x198.jpg"
+    }
+]
+[Thu, 04 Jun 2020 21:32:42 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/banner-1-300x75.jpg =. wp-content/uploads/2020/04/banner-1-300x75.jpg] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:32:42 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/banner-1-1024x256.jpg =. wp-content/uploads/2020/04/banner-1-1024x256.jpg] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:32:42 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/banner-1-150x150.jpg =. wp-content/uploads/2020/04/banner-1-150x150.jpg] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:32:42 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/banner-1-768x192.jpg =. wp-content/uploads/2020/04/banner-1-768x192.jpg] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:32:42 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/banner-1-1536x384.jpg =. wp-content/uploads/2020/04/banner-1-1536x384.jpg] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:32:42 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/banner-1-940x198.jpg =. wp-content/uploads/2020/04/banner-1-940x198.jpg] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:34:10 +0000] purge: [
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner.jpg",
+        "remote_path": "wp-content\/uploads\/2020\/04\/banner.jpg",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner.jpg"
+    },
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-300x75.jpg",
+        "remote_path": "wp-content\/uploads\/2020\/04\/banner-300x75.jpg",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-300x75.jpg"
+    },
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1024x256.jpg",
+        "remote_path": "wp-content\/uploads\/2020\/04\/banner-1024x256.jpg",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1024x256.jpg"
+    },
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-150x150.jpg",
+        "remote_path": "wp-content\/uploads\/2020\/04\/banner-150x150.jpg",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-150x150.jpg"
+    },
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-768x192.jpg",
+        "remote_path": "wp-content\/uploads\/2020\/04\/banner-768x192.jpg",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-768x192.jpg"
+    },
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1536x384.jpg",
+        "remote_path": "wp-content\/uploads\/2020\/04\/banner-1536x384.jpg",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-1536x384.jpg"
+    },
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-940x198.jpg",
+        "remote_path": "wp-content\/uploads\/2020\/04\/banner-940x198.jpg",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-940x198.jpg"
+    }
+]
+[Thu, 04 Jun 2020 21:34:10 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/banner.jpg =. wp-content/uploads/2020/04/banner.jpg] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:34:10 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/banner-300x75.jpg =. wp-content/uploads/2020/04/banner-300x75.jpg] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:34:10 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/banner-1024x256.jpg =. wp-content/uploads/2020/04/banner-1024x256.jpg] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:34:10 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/banner-150x150.jpg =. wp-content/uploads/2020/04/banner-150x150.jpg] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:34:10 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/banner-768x192.jpg =. wp-content/uploads/2020/04/banner-768x192.jpg] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:34:10 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/banner-1536x384.jpg =. wp-content/uploads/2020/04/banner-1536x384.jpg] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:34:10 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/banner-940x198.jpg =. wp-content/uploads/2020/04/banner-940x198.jpg] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:35:42 +0000] purge: [
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-image.png",
+        "remote_path": "wp-content\/uploads\/2020\/04\/banner-image.png",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-image.png"
+    },
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-image-300x291.png",
+        "remote_path": "wp-content\/uploads\/2020\/04\/banner-image-300x291.png",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-image-300x291.png"
+    },
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-image-150x150.png",
+        "remote_path": "wp-content\/uploads\/2020\/04\/banner-image-150x150.png",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-image-150x150.png"
+    },
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-image-724x198.png",
+        "remote_path": "wp-content\/uploads\/2020\/04\/banner-image-724x198.png",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/banner-image-724x198.png"
+    }
+]
+[Thu, 04 Jun 2020 21:35:42 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/banner-image.png =. wp-content/uploads/2020/04/banner-image.png] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:35:42 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/banner-image-300x291.png =. wp-content/uploads/2020/04/banner-image-300x291.png] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:35:42 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/banner-image-150x150.png =. wp-content/uploads/2020/04/banner-image-150x150.png] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:35:42 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/banner-image-724x198.png =. wp-content/uploads/2020/04/banner-image-724x198.png] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:35:48 +0000] purge: [
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/client-info-bg.png",
+        "remote_path": "wp-content\/uploads\/2020\/04\/client-info-bg.png",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/client-info-bg.png"
+    },
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/client-info-bg-150x150.png",
+        "remote_path": "wp-content\/uploads\/2020\/04\/client-info-bg-150x150.png",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/client-info-bg-150x150.png"
+    }
+]
+[Thu, 04 Jun 2020 21:35:48 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/client-info-bg.png =. wp-content/uploads/2020/04/client-info-bg.png] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:35:48 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/client-info-bg-150x150.png =. wp-content/uploads/2020/04/client-info-bg-150x150.png] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:35:53 +0000] purge: [
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/clouds.png",
+        "remote_path": "wp-content\/uploads\/2020\/04\/clouds.png",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/clouds.png"
+    },
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/clouds-300x65.png",
+        "remote_path": "wp-content\/uploads\/2020\/04\/clouds-300x65.png",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/clouds-300x65.png"
+    },
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/clouds-1024x222.png",
+        "remote_path": "wp-content\/uploads\/2020\/04\/clouds-1024x222.png",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/clouds-1024x222.png"
+    },
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/clouds-150x150.png",
+        "remote_path": "wp-content\/uploads\/2020\/04\/clouds-150x150.png",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/clouds-150x150.png"
+    },
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/clouds-768x167.png",
+        "remote_path": "wp-content\/uploads\/2020\/04\/clouds-768x167.png",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/clouds-768x167.png"
+    },
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/clouds-1536x333.png",
+        "remote_path": "wp-content\/uploads\/2020\/04\/clouds-1536x333.png",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/clouds-1536x333.png"
+    },
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/clouds-940x198.png",
+        "remote_path": "wp-content\/uploads\/2020\/04\/clouds-940x198.png",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/clouds-940x198.png"
+    }
+]
+[Thu, 04 Jun 2020 21:35:53 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/clouds.png =. wp-content/uploads/2020/04/clouds.png] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:35:53 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/clouds-300x65.png =. wp-content/uploads/2020/04/clouds-300x65.png] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:35:53 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/clouds-1024x222.png =. wp-content/uploads/2020/04/clouds-1024x222.png] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:35:53 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/clouds-150x150.png =. wp-content/uploads/2020/04/clouds-150x150.png] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:35:53 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/clouds-768x167.png =. wp-content/uploads/2020/04/clouds-768x167.png] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:35:53 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/clouds-1536x333.png =. wp-content/uploads/2020/04/clouds-1536x333.png] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:35:53 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/clouds-940x198.png =. wp-content/uploads/2020/04/clouds-940x198.png] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:35:58 +0000] purge: [
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/footer-bg.png",
+        "remote_path": "wp-content\/uploads\/2020\/04\/footer-bg.png",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/footer-bg.png"
+    },
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/footer-bg-300x81.png",
+        "remote_path": "wp-content\/uploads\/2020\/04\/footer-bg-300x81.png",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/footer-bg-300x81.png"
+    },
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/footer-bg-1024x276.png",
+        "remote_path": "wp-content\/uploads\/2020\/04\/footer-bg-1024x276.png",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/footer-bg-1024x276.png"
+    },
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/footer-bg-150x150.png",
+        "remote_path": "wp-content\/uploads\/2020\/04\/footer-bg-150x150.png",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/footer-bg-150x150.png"
+    },
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/footer-bg-768x207.png",
+        "remote_path": "wp-content\/uploads\/2020\/04\/footer-bg-768x207.png",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/footer-bg-768x207.png"
+    },
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/footer-bg-1536x414.png",
+        "remote_path": "wp-content\/uploads\/2020\/04\/footer-bg-1536x414.png",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/footer-bg-1536x414.png"
+    },
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/footer-bg-2048x552.png",
+        "remote_path": "wp-content\/uploads\/2020\/04\/footer-bg-2048x552.png",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/footer-bg-2048x552.png"
+    },
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/footer-bg-940x198.png",
+        "remote_path": "wp-content\/uploads\/2020\/04\/footer-bg-940x198.png",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/footer-bg-940x198.png"
+    }
+]
+[Thu, 04 Jun 2020 21:35:58 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/footer-bg.png =. wp-content/uploads/2020/04/footer-bg.png] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:35:58 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/footer-bg-300x81.png =. wp-content/uploads/2020/04/footer-bg-300x81.png] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:35:58 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/footer-bg-1024x276.png =. wp-content/uploads/2020/04/footer-bg-1024x276.png] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:35:58 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/footer-bg-150x150.png =. wp-content/uploads/2020/04/footer-bg-150x150.png] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:35:58 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/footer-bg-768x207.png =. wp-content/uploads/2020/04/footer-bg-768x207.png] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:35:58 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/footer-bg-1536x414.png =. wp-content/uploads/2020/04/footer-bg-1536x414.png] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:35:58 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/footer-bg-2048x552.png =. wp-content/uploads/2020/04/footer-bg-2048x552.png] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:35:58 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/footer-bg-940x198.png =. wp-content/uploads/2020/04/footer-bg-940x198.png] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:36:05 +0000] purge: [
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/home-banner.png",
+        "remote_path": "wp-content\/uploads\/2020\/04\/home-banner.png",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/home-banner.png"
+    },
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/home-banner-300x134.png",
+        "remote_path": "wp-content\/uploads\/2020\/04\/home-banner-300x134.png",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/home-banner-300x134.png"
+    },
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/home-banner-1024x457.png",
+        "remote_path": "wp-content\/uploads\/2020\/04\/home-banner-1024x457.png",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/home-banner-1024x457.png"
+    },
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/home-banner-150x150.png",
+        "remote_path": "wp-content\/uploads\/2020\/04\/home-banner-150x150.png",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/home-banner-150x150.png"
+    },
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/home-banner-768x343.png",
+        "remote_path": "wp-content\/uploads\/2020\/04\/home-banner-768x343.png",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/home-banner-768x343.png"
+    },
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/home-banner-1536x686.png",
+        "remote_path": "wp-content\/uploads\/2020\/04\/home-banner-1536x686.png",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/home-banner-1536x686.png"
+    },
+    {
+        "local_path": "\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/home-banner-940x198.png",
+        "remote_path": "wp-content\/uploads\/2020\/04\/home-banner-940x198.png",
+        "original_url": "http:\/\/www.ebraiz.com\/opt\/bitnami\/apps\/wordpress\/htdocs\/wp-content\/uploads\/2020\/04\/home-banner-940x198.png"
+    }
+]
+[Thu, 04 Jun 2020 21:36:05 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/home-banner.png =. wp-content/uploads/2020/04/home-banner.png] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:36:05 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/home-banner-300x134.png =. wp-content/uploads/2020/04/home-banner-300x134.png] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:36:05 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/home-banner-1024x457.png =. wp-content/uploads/2020/04/home-banner-1024x457.png] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:36:05 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/home-banner-150x150.png =. wp-content/uploads/2020/04/home-banner-150x150.png] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:36:05 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/home-banner-768x343.png =. wp-content/uploads/2020/04/home-banner-768x343.png] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:36:05 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/home-banner-1536x686.png =. wp-content/uploads/2020/04/home-banner-1536x686.png] Empty Authorization Key.
+[Thu, 04 Jun 2020 21:36:05 +0000] [/opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2020/04/home-banner-940x198.png =. wp-content/uploads/2020/04/home-banner-940x198.png] Empty Authorization Key.

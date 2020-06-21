@@ -1,0 +1,1 @@
+uï^<?php exit; ?>a:1:{s:7:"content";a:4:{s:22:"as_has_wp_comment_logs";b:1;s:40:"email_subscribers_do_activation_redirect";b:1;s:20:"ig_es_wp_cron_notice";b:1;s:29:"_transient_timeout_doing_cron";b:1;}}

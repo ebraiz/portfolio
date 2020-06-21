@@ -1,0 +1,429 @@
+/* RESPONSIVE CSS here*/
+
+/*Mobiles Devices*/
+  @media (max-width: 575px) {
+    #text-2.widget_text .textwidget .emaillist .es-field-wrap label {
+      margin: 0;
+      width: 100%;
+      margin-bottom: 10px;
+    }
+    #text-2.widget_text .textwidget .emaillist .es-field-wrap {
+      display: block;
+    }
+
+    .es_subscription_form_submit {
+      width: 100%;
+    }
+    .navbar-nav li a::before, 
+    .navbar-nav li a.active::before {
+      position: initial;
+    }
+    .navbar-nav li a::after, 
+    .navbar-nav li a.active::after {
+      position: initial;
+    }
+    .slick-slide .seminar-img img {
+      width: 100%;
+      height: 160px;
+    }
+    .slick-slide {
+      width: 100%;
+    }
+    .blogSearchSection .page-title {
+      font-size: 18px;
+    }
+    .blog-left .entry-title {
+      font-size: 24px;
+    }
+    .inner-banner h2 {
+      font-size: 30px;
+    }
+    .blog-sidebar{
+      margin-top: 20px;
+    }
+    .inner-banner {
+      height: 150px;
+    }
+    .site-main .experience-area .experience-item:before {
+      left: 140px;
+    }
+
+    .site-main .experience-area .experience-item:after {
+      left: -100px;
+    }
+
+    .site-main .site-banner .site-title h1 {
+      font-size: 2rem;
+      padding: 1rem 0;
+    }
+
+    .custom-btn, .custom-btn3 {
+      padding: 10px 30px;
+    }
+
+    .about-image, .banner-image{
+      display: none;
+    }
+
+    .site-main .about-area .about-title h2 > span {
+      font-size: 1.5rem;
+      letter-spacing: 1px;
+    }
+
+    .title-text {
+      /* font: normal bold 1.2rem/ 30px var(--roboto); */
+      font-family: var(--roboto);
+      font-size: 1.2rem;
+      font-weight: 700;
+    }
+
+    .site-main .experience-area .experience-title {
+      padding: 0 1rem;
+    }
+    .title-text::before {
+      width: 40px;
+      top: -5px;
+    }
+    .site-main .about-area .about-title .paragraph > p, .about-title {
+      text-align: center;
+    }
+    .site-main .skills-area .experience-area {
+      padding-left: 0;
+    }
+
+    .site-main .skills-area .experience-area .call-area {
+      padding-left: 0;
+    }
+    .site-main .skills-area .experience-area .bg-panel {
+      position: initial;
+      left: 0;
+      top: 0;
+      background: none;
+      width: 0;
+      height: 0;
+      margin-left: 0;
+      z-index: 0;
+    }
+    .site-main .skills-area .experience-area .years-area{
+      background: none !important;
+      padding-left: 0;
+      height: 10rem;
+      padding: 2rem 0 0;
+    }
+    #experience-area{
+      background: #f9f2f2;
+      padding: 2rem;
+    }
+    .site-main .project-area .button-group button {
+      /* font: normal 500 14px/35px var(--roboto); */
+      font-family: var(--roboto);
+      font-size: 14px;
+      font-weight: 500;
+      text-transform: capitalize;
+      padding: 0 15px;
+      margin: 4px;
+    }
+
+    .site-main .education-area .education-title {
+      padding: 0 1rem;
+    }
+
+    .education-list .row .education:not(:last-child){
+      margin-bottom: 120px;
+    }
+
+    .education .card-body {
+      padding-top: 85px;
+    }
+    .education .card-title {
+      font-size: 20px;
+    }
+
+    .manage-web-icon {
+      width: 35px;
+      padding: 2px;
+    }
+    .manage-git-icon {
+      width: 35px;
+      padding: 2px;
+    }
+    .site-banner{
+      padding-top: 15px;
+    }
+    .about-area, .skills-area, .project-area, .education-area, .experience-area, .blog-area, .about-area {
+      padding-top: 60px;
+    }
+    #about .about-title h2 {
+      padding-top: 0;
+    }
+    .site-main .about-area .about-title p {
+      padding: 1rem;
+    }
+    .blog-box-content {
+      margin: 0 16px;
+      padding: 20px;
+    }
+    .blog-box-content p:nth-child(3) {
+      margin: 15px 0;
+    }
+    .footer-area {
+      padding-top: 0;
+    }
+    .experience-title{
+      text-align: center;
+    }
+    .footer-area {
+      margin-top: 60px;
+      background-size: 100% 100%;
+    }
+    .footer-logo {
+      top: 10px;
+      left: -10px;
+    }
+    .footer-area .social a > i {
+      padding: .5rem;
+    }
+    .skills-area{
+      overflow-x: hidden;
+    }
+    #clouds {
+      position: absolute;
+      margin-top: 50px;
+      width: 100%;
+      height: 400px;
+      background: url(../images/clouds.png);
+      background-size: cover;
+      background-position: center center;
+      -webkit-animation: none;
+      -moz-animation: none;
+      -o-animation: none;
+    }
+
+    .header_area .navbar-toggler{
+      float: right;
+    }
+    .header_area .main-menu .nav-item {
+      padding: .2rem;
+      border-bottom: 1px solid #ccc;
+    }
+    p.para {
+      /* font: normal 300 18px/ 25px var(--roboto); */
+      font-family: var(--roboto);
+      font-size: 18px;
+      font-weight: 300;
+    }
+    .grid-item {
+      width: 100%;
+    }
+    .project-categories ul li {
+      padding: 8px 20px;
+      margin: 5px;
+    }
+  }
+
+  /*IPAD*/
+  @media (min-width: 768px) and (max-width: 991px) {
+
+    .grid-item {
+      width: 50%;
+    }
+    .navbar-nav li a::before, 
+    .navbar-nav li a.active::before {
+      position: initial;
+    }
+    .navbar-nav li a::after, 
+    .navbar-nav li a.active::after {
+      position: initial;
+    }
+    .slick-slide .seminar-img img{
+      width: 100%;
+      height: 200px;
+    }
+    .slick-slide {
+      width: 100%;
+    }
+    .site-main .site-banner .site-title h1 {
+      font-size: 4rem;
+      padding: 1rem 0;
+    }
+
+    .custom-btn, .custom-btn3 {
+      padding: 10px 30px;
+    }
+
+    .about-image, .banner-image{
+      display: none;
+    }
+
+    .site-main .about-area .about-title h2 > span {
+      font-size: 2.5rem;
+      letter-spacing: 1px;
+    }
+
+    .title-text {
+      /* font: normal bold 2.5rem/ 40px var(--roboto); */
+      font-family: var(--roboto);
+      font-size: 2.5rem;
+      font-weight: 700;
+    }
+
+    .site-main .experience-area .experience-title {
+      padding: 0 1rem;
+    }
+    .title-text::before {
+      width: 40px;
+      top: -5px;
+    }
+    .site-main .about-area .about-title .paragraph > p, .about-title {
+      text-align: center;
+    }
+    .site-main .skills-area .experience-area {
+      padding-left: 0;
+    }
+
+    .site-main .skills-area .experience-area .call-area {
+      padding-left: 0;
+      float: right;
+      width: 50%;
+      margin-top: 40px;
+    }
+    .site-main .skills-area .experience-area .bg-panel {
+      position: initial;
+      left: 0;
+      top: 0%;
+      background: none;
+      width: 0;
+      height: 0;
+      margin-left: 0;
+      z-index: 0;
+    }
+    .site-main .skills-area .experience-area .years-area {
+      background: none;
+      padding-left: 0;
+      width: 50%;
+      height: 10rem;
+      text-align: center;
+      padding: 2rem 0 0;
+      display: inline-block !important;
+    }
+    #experience-area{
+      background: #f9f2f2;
+      padding: 2rem;
+      margin-top: 50px;
+    }
+    .site-main .project-area .button-group button {
+      /* font: normal 500 14px/35px var(--roboto); */
+      font-family: var(--roboto);
+      font-size: 14px;
+      font-weight: 500;
+      text-transform: capitalize;
+      padding: 0 15px;
+      margin: 4px;
+    }
+
+    .site-main .education-area .education-title {
+      padding: 0 1rem;
+    }
+
+    .education-list .row .education:last-child{
+      margin-top: 120px;
+    }
+
+    .education .card-body {
+      padding-top: 85px;
+    }
+    .education .card-title {
+      font-size: 20px;
+    }
+
+    .manage-web-icon {
+      width: 35px;
+      padding: 2px;
+    }
+    .manage-git-icon {
+      width: 35px;
+      padding: 2px;
+    }
+    .site-banner{
+      padding-top: 15px;
+    }
+    .about-area, .skills-area, .project-area, .education-area, .experience-area, .blog-area, .about-area {
+      padding-top: 80px;
+    }
+    .site-main .about-area .about-title p {
+      padding: 1rem;
+    }
+    .blog-box-content {
+      margin: 0 16px;
+      padding: 20px;
+    }
+    .blog-box-content p:nth-child(3) {
+      margin: 15px 0;
+    }
+    .footer-area {
+      padding-top: 100px;
+    }
+    .experience-title{
+      text-align: center;
+    }
+    .skills-area{
+      overflow-x: hidden;
+    }
+    #clouds {
+      position: absolute;
+      margin-top: 50px;
+      width: 100%;
+      height: 400px;
+      background: url(../images/clouds.png);
+      background-size: cover;
+      background-position: center center;
+      -webkit-animation: none;
+      -moz-animation: none;
+      -o-animation: none;
+    }
+
+/*     .header_area .navbar-toggler{
+      float: right;
+      margin-top: 40px;
+    } */
+    .header_area .main-menu .nav-item {
+      padding: .2rem;
+      border-bottom: 1px solid #ccc;
+    }
+    p.para {
+      /* font: normal 300 24px/ 36px var(--roboto); */
+      font-family: var(--roboto);
+      font-size: 24px;
+      font-weight: 300;
+    }
+    a.navbar-brand {
+      font-size: 30px;
+      font-weight: 600;
+      width: 100%;
+      display: contents;
+    }
+    a.navbar-brand img{
+      width: 60px;
+    }
+    .call-now a {
+      font-size: 45px;
+    }
+    .navbar-brand img{
+      width: 20%;
+      height: 20%;
+    }
+  }
+
+  /*IPAD PRO*/
+  @media (min-width: 992px) and (max-width: 1199px) {
+/*     body {
+      background-color: lightgreen;
+    } */
+  }
+
+  /*Large Devices*/
+  @media (min-width: 1920px) {
+/*     body {
+      background-color: lightblue;
+    } */
+  }

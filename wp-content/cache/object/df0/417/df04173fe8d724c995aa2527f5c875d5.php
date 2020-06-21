@@ -1,0 +1,1 @@
+Ätï^<?php exit; ?>a:1:{s:7:"content";s:32:"a:1:{s:6:"mailer";s:6:"wpmail";}";}
